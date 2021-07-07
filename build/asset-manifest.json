@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VinayKumar-MK/LearnReactJS_Ud.git/static/css/main.3226d4b1.chunk.css",
+    "main.js": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/main.2cc1af8d.chunk.js",
+    "main.js.map": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/main.2cc1af8d.chunk.js.map",
+    "runtime-main.js": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/runtime-main.779ebea1.js",
+    "runtime-main.js.map": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/runtime-main.779ebea1.js.map",
+    "static/js/2.c836ef32.chunk.js": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/2.c836ef32.chunk.js",
+    "static/js/2.c836ef32.chunk.js.map": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/2.c836ef32.chunk.js.map",
+    "static/js/3.6a7136b8.chunk.js": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/3.6a7136b8.chunk.js",
+    "static/js/3.6a7136b8.chunk.js.map": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/3.6a7136b8.chunk.js.map",
+    "index.html": "/VinayKumar-MK/LearnReactJS_Ud.git/index.html",
+    "static/css/main.3226d4b1.chunk.css.map": "/VinayKumar-MK/LearnReactJS_Ud.git/static/css/main.3226d4b1.chunk.css.map",
+    "static/js/2.c836ef32.chunk.js.LICENSE.txt": "/VinayKumar-MK/LearnReactJS_Ud.git/static/js/2.c836ef32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.779ebea1.js",
+    "static/js/2.c836ef32.chunk.js",
+    "static/css/main.3226d4b1.chunk.css",
+    "static/js/main.2cc1af8d.chunk.js"
+  ]
+}
